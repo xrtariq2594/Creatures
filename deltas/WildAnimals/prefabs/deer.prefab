@@ -1,0 +1,9 @@
+{
+    "Anatomy" : {
+        "aPrefabNames" : [
+          "creatures:deerHead",
+          "creatures:deerBody",
+          "creatures:deerLegs"
+        ]
+    }
+}

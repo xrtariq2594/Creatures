@@ -1,0 +1,22 @@
+{
+    "id" : "Creatures",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "XTariq",
+    "displayName" : "Creatures",
+    "description" : "A basic set of creatures who have Anatomy.",
+    "dependencies" : [
+        {
+            "id" : "Core",
+            "minVersion" : "1.0.0"
+        },
+        {
+            "id" : "Anatomy",
+            "minVersion" : "0.1.1"
+        },
+        {
+            "id" : "WildAnimals",
+            "minVersion" : "0.1.1"
+        }
+    ],
+    "serverSideOnly" : false
+}
